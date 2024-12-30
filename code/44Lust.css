@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.stamp{
+    position: absolute;
+    border-style: solid;
+    border-color: white;
+    width: 45%;
+    background-color: black;
+}
+
+.logo{ 
+    float: left;
+    width: 25%;
+}
+
+p1{
+    position: absolute;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
